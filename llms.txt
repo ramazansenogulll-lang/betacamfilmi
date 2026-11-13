@@ -1,0 +1,79 @@
+# Beta Cam Filmi
+
+> Beta Cam Filmi; İstanbul'da konutlar, ofisler ve ticari yapılar için profesyonel cam filmi satışı, keşfi ve uygulaması sunar. Hizmetler güneş kontrolü, mahremiyet, UV koruması, güvenlik ve dekoratif cam filmi çözümlerini kapsar.
+
+Beta Cam Filmi, camın türünü, cephe yönünü, güneş alma süresini ve kullanım amacını değerlendirerek ihtiyaca uygun ürün seçimi ve profesyonel montaj hizmeti sağlar. Ana hizmet bölgesi İstanbul'dur. Sayfalardaki bilgiler Türkçedir.
+
+## Ana Sayfalar
+
+- [Ana Sayfa](https://betacamfilmi.com/): İstanbul cam filmi hizmetleri, marka özeti ve hizmetlere genel bakış.
+- [Hakkımızda](https://betacamfilmi.com/hakkimizda.html): Beta Cam Filmi'nin hizmet anlayışı ve kurumsal bilgileri.
+- [Galeri](https://betacamfilmi.com/galeri.html): Tamamlanan cam filmi uygulamalarından görseller.
+- [İletişim](https://betacamfilmi.com/iletisim.html): Keşif, fiyat teklifi ve uygulama talepleri için iletişim bilgileri.
+
+## Cam Filmi Hizmetleri
+
+- [Aynalı Cam Filmi](https://betacamfilmi.com/aynali-cam-filmi.html): Gündüz mahremiyeti, güneş ve ısı kontrolü sağlayan reflektif cam filmi uygulamaları.
+- [Buzlu Cam Filmi](https://betacamfilmi.com/buzlu-cam-filmi.html): Banyo, ofis ve cam bölmeler için sürekli mahremiyet sağlayan buzlu cam filmi.
+- [Kumlama Cam Filmi](https://betacamfilmi.com/kumlama-cam-filmi.html): Ofis ve cam bölmeler için mat, logolu ve desenli kumlama cam filmi çözümleri.
+- [Güneş Kontrol Cam Filmi](https://betacamfilmi.com/gunes-kontrol-cam-filmi.html): Isı, parlama ve UV etkisini azaltmaya yardımcı güneş kontrol filmi uygulamaları.
+- [Güvenlik Cam Filmi](https://betacamfilmi.com/guvenlik-cam-filmi.html): Camların darbe dayanımını artırmaya ve kırılan parçaların dağılmasını azaltmaya yardımcı güvenlik filmi.
+- [Ofis Cam Filmi](https://betacamfilmi.com/ofis-cam-filmi.html): Ofis bölmeleri için buzlu, kumlama, logolu, dekoratif ve güneş kontrol filmi seçenekleri.
+- [Pencere Cam Filmi](https://betacamfilmi.com/pencere-cam-filmi.html): Ev ve iş yeri pencerelerinde güneş, UV, mahremiyet ve güvenlik çözümleri.
+- [Renkli Cam Filmi](https://betacamfilmi.com/renkli-cam-filmi.html): Cam yüzeylere renk ve dekoratif görünüm kazandıran film uygulamaları.
+- [Balkon Cam Filmi](https://betacamfilmi.com/balkon-cam-filmi.html): Cam balkonlarda güneş kontrolü, mahremiyet, UV koruması ve dekoratif seçenekler.
+- [Ev Cam Filmi](https://betacamfilmi.com/ev-cam-filmi.html): Konut pencereleri ve balkonlar için güneş kontrolü, mahremiyet, UV ve güvenlik filmi çözümleri.
+
+## Site Kaynakları
+
+- [Sitemap](https://betacamfilmi.com/sitemap.xml): Sitenin canonical ve indekslenebilir sayfalarının güncel listesi.
+- [Robots.txt](https://betacamfilmi.com/robots.txt): Tarama kuralları ve sitemap bildirimi.
+
+## Notlar
+
+- Tüm bağlantılar uzantısız canonical URL biçimindedir.
+- Fiyatlar; ürün türü, cam alanı, uygulama koşulları ve keşif sonucuna göre belirlenir.
+- Kesin ürün seçimi için cam tipi ve uygulama alanı profesyonel ekip tarafından değerlendirilmelidir.
+
+## İstanbul İlçe Rehberleri
+
+- [Cam Filmi Blog](https://betacamfilmi.com/blog.html): İstanbul’un 39 ilçesine özel cam filmi uygulama rehberleri.
+- [Adalar Cam Filmi](https://betacamfilmi.com/adalar-cam-filmi.html): Adalar bölgesinde villa, yazlık, konut, ofis ve ticari alanlar için cam filmi rehberi.
+- [Arnavutköy Cam Filmi](https://betacamfilmi.com/arnavutkoy-cam-filmi.html): Arnavutköy bölgesinde villa, konut, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Ataşehir Cam Filmi](https://betacamfilmi.com/atasehir-cam-filmi.html): Ataşehir bölgesinde rezidans, plaza, ofis, mağaza ve modern konutlar için cam filmi rehberi.
+- [Avcılar Cam Filmi](https://betacamfilmi.com/avcilar-cam-filmi.html): Avcılar bölgesinde ev, apartman, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Bağcılar Cam Filmi](https://betacamfilmi.com/bagcilar-cam-filmi.html): Bağcılar bölgesinde ev, apartman, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Bahçelievler Cam Filmi](https://betacamfilmi.com/bahcelievler-cam-filmi.html): Bahçelievler bölgesinde ev, site, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Bakırköy Cam Filmi](https://betacamfilmi.com/bakirkoy-cam-filmi.html): Bakırköy bölgesinde ev, apartman, ofis, mağaza, klinik ve ticari alanlar için cam filmi rehberi.
+- [Başakşehir Cam Filmi](https://betacamfilmi.com/basaksehir-cam-filmi.html): Başakşehir bölgesinde rezidans, site, villa, ofis ve ticari alanlar için cam filmi rehberi.
+- [Bayrampaşa Cam Filmi](https://betacamfilmi.com/bayrampasa-cam-filmi.html): Bayrampaşa bölgesinde ev, apartman, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Beşiktaş Cam Filmi](https://betacamfilmi.com/besiktas-cam-filmi.html): Beşiktaş bölgesinde ev, ofis, mağaza, klinik ve ticari alanlar için cam filmi rehberi.
+- [Beykoz Cam Filmi](https://betacamfilmi.com/beykoz-cam-filmi.html): Beykoz bölgesinde villa, müstakil ev, site, ofis ve ticari alanlar için cam filmi rehberi.
+- [Beylikdüzü Cam Filmi](https://betacamfilmi.com/beylikduzu-cam-filmi.html): Beylikdüzü bölgesinde rezidans, site, apartman, ofis ve ticari alanlar için cam filmi rehberi.
+- [Beyoğlu Cam Filmi](https://betacamfilmi.com/beyoglu-cam-filmi.html): Beyoğlu bölgesinde tarihi yapı, otel, mağaza, restoran, ofis ve konutlar için cam filmi rehberi.
+- [Büyükçekmece Cam Filmi](https://betacamfilmi.com/buyukcekmece-cam-filmi.html): Büyükçekmece bölgesinde villa, site, balkon, teras, kış bahçesi ve ofisler için cam filmi rehberi.
+- [Çatalca Cam Filmi](https://betacamfilmi.com/catalca-cam-filmi.html): Çatalca bölgesinde villa, müstakil ev, veranda, teras, kış bahçesi ve iş yerleri için cam filmi rehberi.
+- [Çekmeköy Cam Filmi](https://betacamfilmi.com/cekmekoy-cam-filmi.html): Çekmeköy bölgesinde villa, site, balkon, kış bahçesi, ofis ve iş yerleri için cam filmi rehberi.
+- [Esenler Cam Filmi](https://betacamfilmi.com/esenler-cam-filmi.html): Esenler bölgesinde ev, balkon, ofis, mağaza ve iş yerleri için cam filmi rehberi.
+- [Esenyurt Cam Filmi](https://betacamfilmi.com/esenyurt-cam-filmi.html): Esenyurt bölgesinde rezidans, site, balkon, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Eyüpsultan Cam Filmi](https://betacamfilmi.com/eyupsultan-cam-filmi.html): Eyüpsultan bölgesinde ev, villa, balkon, ofis, mağaza ve iş yerleri için cam filmi rehberi.
+- [Fatih Cam Filmi](https://betacamfilmi.com/fatih-cam-filmi.html): Fatih bölgesinde ev, otel, mağaza vitrini, ofis, klinik ve ticari alanlar için cam filmi rehberi.
+- [Gaziosmanpaşa Cam Filmi](https://betacamfilmi.com/gaziosmanpasa-cam-filmi.html): Gaziosmanpaşa bölgesinde ev, balkon, ofis, mağaza ve vitrinler için cam filmi rehberi.
+- [Güngören Cam Filmi](https://betacamfilmi.com/gungoren-cam-filmi.html): Güngören bölgesinde ev, balkon, ofis, mağaza, vitrin ve iş yerleri için cam filmi rehberi.
+- [Kadıköy Cam Filmi](https://betacamfilmi.com/kadikoy-cam-filmi.html): Kadıköy bölgesinde ev, balkon, ofis, mağaza vitrini, klinik ve ticari alanlar için cam filmi rehberi.
+- [Kağıthane Cam Filmi](https://betacamfilmi.com/kagithane-cam-filmi.html): Kağıthane bölgesinde rezidans, plaza, ofis, ev, balkon ve mağazalar için cam filmi rehberi.
+- [Kartal Cam Filmi](https://betacamfilmi.com/kartal-cam-filmi.html): Kartal bölgesinde rezidans, site, balkon, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Küçükçekmece Cam Filmi](https://betacamfilmi.com/kucukcekmece-cam-filmi.html): Küçükçekmece bölgesinde ev, site, balkon, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Maltepe Cam Filmi](https://betacamfilmi.com/maltepe-cam-filmi.html): Maltepe bölgesinde rezidans, site, balkon, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Pendik Cam Filmi](https://betacamfilmi.com/pendik-cam-filmi.html): Pendik bölgesinde rezidans, site, villa, balkon, ofis ve ticari alanlar için cam filmi rehberi.
+- [Sancaktepe Cam Filmi](https://betacamfilmi.com/sancaktepe-cam-filmi.html): Sancaktepe bölgesinde villa, site, balkon, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Sarıyer Cam Filmi](https://betacamfilmi.com/sariyer-cam-filmi.html): Sarıyer bölgesinde villa, rezidans, veranda, teras, kış bahçesi ve ofisler için cam filmi rehberi.
+- [Silivri Cam Filmi](https://betacamfilmi.com/silivri-cam-filmi.html): Silivri bölgesinde villa, yazlık, balkon, veranda, teras ve kış bahçeleri için cam filmi rehberi.
+- [Sultanbeyli Cam Filmi](https://betacamfilmi.com/sultanbeyli-cam-filmi.html): Sultanbeyli bölgesinde ev, balkon, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Sultangazi Cam Filmi](https://betacamfilmi.com/sultangazi-cam-filmi.html): Sultangazi bölgesinde ev, balkon, ofis, mağaza ve vitrinler için cam filmi rehberi.
+- [Şile Cam Filmi](https://betacamfilmi.com/sile-cam-filmi.html): Şile bölgesinde villa, yazlık, balkon, veranda, teras, kış bahçesi ve butik işletmeler için cam filmi rehberi.
+- [Şişli Cam Filmi](https://betacamfilmi.com/sisli-cam-filmi.html): Şişli bölgesinde plaza, ofis, rezidans, klinik, mağaza, vitrin ve konutlar için cam filmi rehberi.
+- [Tuzla Cam Filmi](https://betacamfilmi.com/tuzla-cam-filmi.html): Tuzla bölgesinde villa, site, balkon, ofis, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Ümraniye Cam Filmi](https://betacamfilmi.com/umraniye-cam-filmi.html): Ümraniye bölgesinde rezidans, plaza, ofis, ev, balkon ve mağazalar için cam filmi rehberi.
+- [Üsküdar Cam Filmi](https://betacamfilmi.com/uskudar-cam-filmi.html): Üsküdar bölgesinde ev, villa, balkon, ofis, klinik, mağaza ve ticari alanlar için cam filmi rehberi.
+- [Zeytinburnu Cam Filmi](https://betacamfilmi.com/zeytinburnu-cam-filmi.html): Zeytinburnu bölgesinde ev, balkon, ofis, mağaza, vitrin ve ticari alanlar için cam filmi rehberi.
