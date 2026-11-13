@@ -21,6 +21,8 @@
   document.addEventListener('click', function (e) {
     var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
     if (!a) return;
+    // AntiClick'in botlar için koyduğu gizli tuzak linkleri dönüşüm sayılmaz
+    if (a.hasAttribute('data-cf-trap') || /^cf_hp_/.test(a.id || '')) return;
     var h = a.getAttribute('href') || '';
     if (h.indexOf('tel:') === 0) {
       gonder('telefon', 'arama_tiklama', { link_url: h });
