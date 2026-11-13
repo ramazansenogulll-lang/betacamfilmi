@@ -4,8 +4,8 @@
       "@context": "https://agenticresourcediscovery.org/context/v1",
       "identifier": "urn:air:betacamfilmi.com:site:beta-cam-filmi",
       "displayName": "Beta Cam Filmi — İstanbul cam filmi uygulama rehberi",
-      "type": "text/markdown",
-      "url": "https://betacamfilmi.com/llms.txt",
+      "type": "text/html",
+      "url": "https://betacamfilmi.com/",
       "description": "İstanbul'da konut, ofis ve ticari yapılar için cam filmi satışı, keşfi ve uygulaması. Güneş kontrol, aynalı, buzlu, kumlama, güvenlik, UV ve dekoratif cam filmi hizmetleri; 39 ilçeye özel rehberler. Teklif ve iletişim: telefon/WhatsApp +90 542 158 94 58.",
       "representativeQueries": [
         "İstanbul'da cam filmi uygulaması yapan firma",
@@ -25,7 +25,11 @@
         "buzlu cam filmi",
         "İstanbul"
       ],
-      "updatedAt": "2026-11-13"
+      "updatedAt": "2026-11-13T00:00:00Z",
+      "metadata": {
+        "llmsTxt": "https://betacamfilmi.com/llms.txt",
+        "sitemap": "https://betacamfilmi.com/sitemap.xml"
+      }
     }
   ]
 }
