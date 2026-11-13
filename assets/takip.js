@@ -55,6 +55,15 @@
     if (mesaj) satirlar.push('', mesaj);
     var url = 'https://wa.me/' + WA_NUMARA + '?text=' + encodeURIComponent(satirlar.join('\n'));
 
+    // WebMCP: form bir yapay zeka ajanı tarafından gönderildiyse sonucu ajana döndür,
+    // dönüşüm sayma (insan değil), pencere açma.
+    if (e.agentInvoked && typeof e.respondWith === 'function') {
+      e.respondWith(Promise.resolve(
+        'Talep hazırlandı. Kullanıcının göndermesi için WhatsApp bağlantısı: ' + url +
+        ' — Alternatif: +90 542 158 94 58 numarasını arayın.'));
+      return;
+    }
+
     gonder('form', 'generate_lead', { form_name: 'iletisim_whatsapp' });
 
     var uyari = f.querySelector('[data-form-alert]');

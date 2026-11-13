@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:betacamfilmi.com:site:beta-cam-filmi",
+      "displayName": "Beta Cam Filmi — İstanbul cam filmi uygulama rehberi",
+      "type": "text/markdown",
+      "url": "https://betacamfilmi.com/llms.txt",
+      "description": "İstanbul'da konut, ofis ve ticari yapılar için cam filmi satışı, keşfi ve uygulaması. Güneş kontrol, aynalı, buzlu, kumlama, güvenlik, UV ve dekoratif cam filmi hizmetleri; 39 ilçeye özel rehberler. Teklif ve iletişim: telefon/WhatsApp +90 542 158 94 58.",
+      "representativeQueries": [
+        "İstanbul'da cam filmi uygulaması yapan firma",
+        "ofis cam bölmesine buzlu veya kumlama cam filmi yaptırmak istiyorum",
+        "balkon camı için güneş kontrol filmi teklifi al",
+        "dışarıdan içeriyi göstermeyen aynalı cam filmi nedir",
+        "Kadıköy'de cam filmi uygulaması"
+      ],
+      "capabilities": [
+        "CamFilmiBilgi",
+        "TeklifTalebiWhatsApp"
+      ],
+      "tags": [
+        "cam filmi",
+        "güneş kontrol filmi",
+        "aynalı cam filmi",
+        "buzlu cam filmi",
+        "İstanbul"
+      ],
+      "updatedAt": "2026-11-13"
+    }
+  ]
+}
