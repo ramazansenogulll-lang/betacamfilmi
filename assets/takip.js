@@ -29,25 +29,38 @@
     }
   }, true);
 
-  // İletişim formu (data-form-title="Form Name"): formoid başarı uyarısındaki
-  // hidden kalkınca bir kez dönüşüm gönder.
-  function formlariIzle() {
-    var formlar = document.querySelectorAll('form[data-form-title="Form Name"]');
-    Array.prototype.forEach.call(formlar, function (f) {
-      var uyari = f.querySelector('[data-form-alert]');
-      if (!uyari || !window.MutationObserver) return;
-      var gonderildi = false;
-      new MutationObserver(function () {
-        if (!gonderildi && !uyari.hasAttribute('hidden')) {
-          gonderildi = true;
-          gonder('form', 'generate_lead', { form_name: 'iletisim' });
-        }
-      }).observe(uyari, { attributes: true, attributeFilter: ['hidden'] });
+  // İletişim formu (data-form-title="Form Name"): mesajı WhatsApp'a hazır metin
+  // olarak açar ve form dönüşümünü gönderir. Abone (bülten) formuna dokunmaz.
+  var WA_NUMARA = '905421589458';
+  document.addEventListener('submit', function (e) {
+    var f = e.target;
+    if (!f || !f.matches || !f.matches('form[data-form-title="Form Name"]')) return;
+    e.preventDefault();
+    e.stopImmediatePropagation();
+    if (f.reportValidity && !f.reportValidity()) return;
+
+    function deger(ad) {
+      var el = f.querySelector('[name="' + ad + '"]');
+      return el ? String(el.value || '').trim() : '';
+    }
+    var satirlar = ['Merhaba, web sitesindeki form üzerinden yazıyorum.'];
+    var alanlar = [['Ad', 'name'], ['Telefon', 'phone'], ['E-posta', 'email'], ['Konu', 'subject']];
+    alanlar.forEach(function (a) {
+      var v = deger(a[1]);
+      if (v) satirlar.push(a[0] + ': ' + v);
     });
-  }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', formlariIzle);
-  } else {
-    formlariIzle();
-  }
+    var mesaj = deger('message');
+    if (mesaj) satirlar.push('', mesaj);
+    var url = 'https://wa.me/' + WA_NUMARA + '?text=' + encodeURIComponent(satirlar.join('\n'));
+
+    gonder('form', 'generate_lead', { form_name: 'iletisim_whatsapp' });
+
+    var uyari = f.querySelector('[data-form-alert]');
+    if (uyari) {
+      uyari.textContent = 'WhatsApp açılıyor… Açılmazsa 0542 158 94 58 numarasına yazabilirsiniz.';
+      uyari.removeAttribute('hidden');
+    }
+    var w = window.open(url, '_blank');
+    if (w) { try { w.opener = null; } catch (x) {} } else { window.location.href = url; }
+  }, true);
 })();
